@@ -4,4 +4,4 @@ Modifying the file.
 
 Rebasing...!
 
-Revert the code...! training...!
+Revert the code...!
